@@ -1,1 +1,2 @@
 this is my first git tutorial
+this line was written second time to check second commit
